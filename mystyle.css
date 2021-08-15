@@ -1,12 +1,4 @@
 
-img{
-    border-radius: 50%;
-    height: 50px;
-    transition: 0.3s;
-}
-img:hover{
-    transform: rotate(180deg);
-}
  div{
         font-family: "Lucida Console", "Courier New", monospace;
         font-size: 60px;
