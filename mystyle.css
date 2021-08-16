@@ -5,6 +5,9 @@ img{
  right:-40px;
  opacity: 0.4;
 }
+img:hover {
+  opacity: 1.0;
+}
  div{
         font-family: "Lucida Console", "Courier New", monospace;
         font-size: 60px;
