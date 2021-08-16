@@ -3,6 +3,7 @@ img{
  height:300px;
  position: absolute;
  right:40px;
+ opacity: 0.5;
 }
  div{
         font-family: "Lucida Console", "Courier New", monospace;
