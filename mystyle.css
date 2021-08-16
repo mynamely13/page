@@ -2,7 +2,7 @@ img{
  width:200px;
  height:300px;
  position: absolute;
- left:40px;
+ right:40px;
 }
  div{
         font-family: "Lucida Console", "Courier New", monospace;
